@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hayrullah Demir
 
-<!--
-**hdmr53/hdmr53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer in Progress | MIS Student
 
-Here are some ideas to get you started:
+I'm a Management Information Systems student interested in software engineering, backend development, and building useful digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into practical applications, exploring how systems work, and continuously improving my problem-solving skills.
+
+### Currently Focused On
+
+- C# and Object-Oriented Programming
+- .NET and Backend Development
+- Data Structures and Algorithms
+- Git and GitHub
+
+### Technologies & Tools
+
+- **Languages:** C#, Python
+- **Backend:** .NET (Learning)
+- **Tools:** Git, GitHub, Visual Studio, VS Code
+
+### What I Believe
+
+I believe real progress comes from building things, solving problems, and understanding the code behind them — not just following tutorials.
+
+My goal is to become a capable software developer by consistently learning and building real-world projects.bunu yapıyorum
